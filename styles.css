@@ -76,17 +76,17 @@ body{
     padding-top: 3rem;
 }
 
-.informações-contato ul{
+.informacoes-contato ul{
     padding-top: 2rem;
 }
 
-.informações-contato ul li{
+.informacoes-contato ul li{
     padding: .4rem 0;
     display: flex;
     align-items: center;
     color: #718096;
 }
-.informações-contato ul li i{
+.informacoes-contato ul li i{
     padding-right: 1rem;
     font-size: 1.2rem;
     color: #2D9CDB;
